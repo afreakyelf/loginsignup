@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grand Mint</string>
+    <string name="newuser">New User? Register here</string>
+    <string name="suc">Registered Successfully ! Please verify email to login ! </string>
+</resources>
